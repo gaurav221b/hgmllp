@@ -47,13 +47,13 @@ const Footer = () => {
                         <li style={{color:'white', fontSize:'25px',
                             fontWeight:'400'}} class="nav-item mb-2">Pune</li>
                         <li style={{color:'grey',
-                            fontWeight:'400'}} class="nav-item mb-2"><FaLocationArrow /> : Office-3, Aditya</li>
+                            fontWeight:'400'}} class="nav-item mb-2"><FaLocationArrow /> : Office-3, </li>
                         <li style={{color:'grey',
-                            fontWeight:'400'}} class="nav-item mb-2">Centeegra, </li>
+                            fontWeight:'400'}} class="nav-item mb-2">Aditya Centeegra, </li>
                         <li style={{color:'grey',
-                            fontWeight:'400'}} class="nav-item mb-2">Dnyaneshwar Paduka</li>
+                            fontWeight:'400'}} class="nav-item mb-2">Dnyaneshwar Paduka Chowk, </li>
                         <li style={{color:'grey',
-                            fontWeight:'400'}} class="nav-item mb-2">Chowk, FC Road, Pune.</li>
+                            fontWeight:'400'}} class="nav-item mb-2">FC Road, Pune.</li>
                         <li>
                         
                         </li>
@@ -72,9 +72,11 @@ const Footer = () => {
                         <li style={{color:'white', fontSize:'25px',
                             fontWeight:'400'}} class="nav-item mb-2">Nashik</li>
                         <li style={{color:'grey',
-                            fontWeight:'400'}} class="nav-item mb-2"><FaLocationArrow /> : 11, Aniket resi., Savarkar</li>
+                            fontWeight:'400'}} class="nav-item mb-2"><FaLocationArrow /> : 11, Aniket resi., </li>
                         <li style={{color:'grey',
-                            fontWeight:'400'}} class="nav-item mb-2">Nagar, Gangapur Road, </li>
+                            fontWeight:'400'}} class="nav-item mb-2">Savarkar Nagar,  </li>
+                        <li style={{color:'grey',
+                            fontWeight:'400'}} class="nav-item mb-2">Gangapur Road,</li>
                         <li style={{color:'grey',
                             fontWeight:'400'}} class="nav-item mb-2">Nashik.</li>
                         <li>
@@ -96,7 +98,7 @@ const Footer = () => {
                 <Col></Col>
                 <Col style={{textAlign:'end'}}>
                     
-                    <h6><a style={{textDecoration:'none', color:'#AAA'}} href='mailto:atharvarote@gmail.com'>Design by Atharv Arote</a></h6>
+                    <h6><a style={{textDecoration:'none', color:'#AAA'}} href='https://linktr.ee/atharv_arote'>Design by Atharv Arote</a></h6>
                 </Col>
                 
             </Row>
